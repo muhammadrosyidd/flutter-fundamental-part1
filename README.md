@@ -15,3 +15,7 @@ Praktikum 5 Langkah 1 & 2
 
 Praktikum 5 Langkah 3 - 5
 ![Screenshoot Praktikum 5 Langkah 3 - 5](images/05.png)
+
+Praktikum 6 Langkah 6
+![Screenshoot Praktikum 5 Langkah 6](images/06.png)
+![Screenshoot Praktikum 5 Langkah 6](images/07.png)
